@@ -1,2 +1,2 @@
-# javaee.samples
-A set of examples from the "JavaEE Samples" Organization
+# JavaEE Samples
+A set of examples from github.
