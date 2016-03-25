@@ -8,7 +8,7 @@ recusat miserrima vocabitur talaria.
 
 Fugant relinquunt solebat; nec corpore et eunti eiusdem latusque *terrae si*
 agitata in petere iacentes recesserat placido. Solvit cerebrum, et sic probatum
-usque. Portus praeceps [times](http://example.com/); Aiacis arcus est bracchia
+usque. Portus praeceps [times](callidus.md); Aiacis arcus est bracchia
 est habendum quid sine senis ut sine idcirco afuit. Gentesque fecundo tua moveri
 sperne sub noctes cui edidit deserit animis legi.
 
